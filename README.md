@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding , exploring , building SDLC , Data Engineering, Data Mesh , Integrations, Machine Learning
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on data product softwares , Data pipelines softwares
-- 📫 How to reach me bsram@gmail.com
+- 📫 How to reach me bsram1625@gmail.com
 - 😄 Pronouns: He
 - ⚡ Serious fact: No update no survive.
 
