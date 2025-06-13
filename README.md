@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @python-dev-bsram
 - 👀 I’m interested in coding , exploring , building SDLC , Data Engineering, Data Mesh , Integrations, Machine Learning
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 I’m currently New coding Skills using AI
 - 💞️ I’m looking to collaborate on data product softwares , Data pipelines softwares
 - 📫 How to reach me bsram1625@gmail.com
 - 😄 Pronouns: He
@@ -47,18 +47,14 @@ You can click the Preview link to take a look at your changes.
 - I know how to manage servers and use command-line tools.
 - I can set up cloud infrastructure for different applications.
 
-## 6. Kafka & ZeroMQ
-- I have worked with `Kafka` to handle large streams of data.
-- I know how to use `ZeroMQ` for messaging between distributed systems.
-
-## 7. SQL & Databases
+## 6. SQL & Databases
 - I can write `SQL` queries to manage and analyze data in databases.
 - I have worked on designing databases and optimizing queries.
 
-## 8. Statistics & Data Analytics
+## 7. Statistics & Data Analytics
 - I understand basic `Statistics` to analyze data.
 - I have used `PySpark` to work with big datasets and process data.
 
-## 9. PySpark
+## 8. PySpark
 - I know how to use `PySpark` to handle large amounts of data using Python.
 - I have experience with processing data and working with distributed systems.
