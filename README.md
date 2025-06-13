@@ -53,8 +53,5 @@ You can click the Preview link to take a look at your changes.
 
 ## 7. Statistics & Data Analytics
 - I understand basic `Statistics` to analyze data.
-- I have used `PySpark` to work with big datasets and process data.
+- I have used `Pandas` to work with big datasets and process data.
 
-## 8. PySpark
-- I know how to use `PySpark` to handle large amounts of data using Python.
-- I have experience with processing data and working with distributed systems.
