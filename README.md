@@ -14,15 +14,12 @@ You can click the Preview link to take a look at your changes.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-00A98F?style=for-the-badge&logo=api&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![ZeroMQ](https://img.shields.io/badge/ZeroMQ-EF2D5E?style=for-the-badge&logo=zeromq&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge&logo=mathworks&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ---
 
